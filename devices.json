@@ -3,9 +3,9 @@
   "updated_at": "2026-07-18",
   "authorized_devices": [
     {
-      "device_id": "test_device_001",
+      "device_id": "f6a0189fe5a8746b",
       "user_name": "测试用户",
-      "expires_at": "2027-12-31"
+      "expires_at": null
     },
     {
       "device_id": "abc123def456",
